@@ -67,11 +67,11 @@ There is no tests for this project.
 
 ## 🎅 Authors
 
-Šarūnas: [Github](https://github.com/sarunaskl/)
-
+Šarūnas: [Github](https://github.com/sarunaskl/), [LinkedIn]
+(https://linkedin.com/in/sarunas-klimavicius/)
 ## ⚠️ License
 
-Distributed under the MIT License. See LICENSE.txt for more information.
+Distributed under the ISC License. See LICENSE.txt for more information.
 
 ## 🔗 Other resources
 
